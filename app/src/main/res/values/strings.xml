@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">layout4</string>
+
+    <string name="textview1">Username</string>
+    <string name="textview2">Password</string>
+    <string name="button">Login</string>
+    <string name="textview3">LOGIN</string>
+</resources>
